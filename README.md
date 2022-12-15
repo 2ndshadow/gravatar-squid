@@ -32,7 +32,7 @@ make serve
 
 Start development by defining the schema of the target database via `schema.graphql`.
 Schema definition consists of regular graphql type declarations annotated with custom directives.
-Full description of `schema.graphql` dialect is available [here](https://docs.subsquid.io/schema-spec).
+Full description of `schema.graphql` dialect is available [here](https://docs.subsquid.io/develop-a-squid/schema-file).
 
 ### 2. Generate TypeORM classes
 
